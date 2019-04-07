@@ -1,0 +1,14 @@
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe.config
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\bin\Debug\elpollonpreliminar.pdb
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\bin\Debug\MetroFramework.dll
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.csprojAssemblyReference.cache
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.Form1.resources
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.Properties.Resources.resources
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.GenerateResource.cache
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CoreCompileInputs.cache
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CopyComplete
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.exe
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.pdb
+C:\Users\guzma\Desktop\el pollon\elpollonpreliminar\elpollonpreliminar\bin\Debug\MetroFramework.Design.dll
