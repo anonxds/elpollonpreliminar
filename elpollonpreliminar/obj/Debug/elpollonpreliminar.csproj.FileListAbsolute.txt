@@ -48,3 +48,21 @@ C:\Users\user\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\e
 C:\Users\user\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.exe
 C:\Users\user\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.pdb
 C:\Users\user\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.csprojAssemblyReference.cache
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe.config
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\bin\Debug\elpollonpreliminar.exe
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\bin\Debug\elpollonpreliminar.pdb
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\bin\Debug\MetroFramework.dll
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.csprojAssemblyReference.cache
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.Form1.resources
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.Ordenar.resources
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.Properties.Resources.resources
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.GenerateResource.cache
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CoreCompileInputs.cache
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.csproj.CopyComplete
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.exe
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\obj\Debug\elpollonpreliminar.pdb
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\bin\Debug\Google.Protobuf.dll
+C:\Users\Reborn 3.0\Documents\GitHub\elpollonpreliminar\elpollonpreliminar\bin\Debug\Google.Protobuf.xml

@@ -18,6 +18,9 @@ namespace elpollonpreliminar.Orden
             return 60;
         }
 
-       
+        public override double preciocombo()
+        {
+            return 120;
+        }
     }
 }

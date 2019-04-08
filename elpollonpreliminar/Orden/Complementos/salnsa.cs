@@ -22,9 +22,12 @@ namespace elpollonpreliminar.Orden.Complementos
 
         public override double precio()
         {
-            return 5 + _pollo.precio();
+            return 5;
         }
 
-      
+        public override double preciocombo()
+        {
+            return 5 + _pollo.preciocombo();
+        }
     }
 }

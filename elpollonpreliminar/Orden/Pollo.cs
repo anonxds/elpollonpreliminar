@@ -14,6 +14,7 @@ namespace elpollonpreliminar.Orden
             return descripcion;
         }
         public abstract double precio();
+        public abstract double preciocombo();
    
     }
 }
