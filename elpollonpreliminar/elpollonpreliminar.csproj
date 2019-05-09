@@ -39,6 +39,9 @@
     <Reference Include="Google.Protobuf, Version=3.5.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
       <HintPath>..\packages\Google.Protobuf.3.5.1\lib\net45\Google.Protobuf.dll</HintPath>
     </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\ventas\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
     <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
       <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
     </Reference>
@@ -125,11 +128,73 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="MetroFramework.txt" />
+    <None Include="Resources\order.png" />
+    <None Include="Resources\order %281%29.png" />
+    <None Include="Resources\user_person_people_6100.ico" />
+    <None Include="Resources\sweep.png" />
+    <None Include="Resources\sweep %281%29.png" />
+    <None Include="Resources\storage.png" />
+    <None Include="Resources\storage %281%29.png" />
+    <None Include="Resources\spa-bowl-to-mix-treatments-ingredients.png" />
+    <None Include="Resources\spa-bowl-to-mix-treatments-ingredients %281%29.png" />
+    <None Include="Resources\savedisk_floppydisk_guardar_15431.ico" />
+    <None Include="Resources\savedisk_floppydisk_guardar_1543.ico" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\save %281%29.png" />
+    <None Include="Resources\salsa.jpg" />
+    <None Include="Resources\recibo2.png" />
+    <None Include="Resources\recibo.png" />
+    <None Include="Resources\recetab.png" />
+    <None Include="Resources\receta.png" />
+    <None Include="Resources\printer.png" />
+    <None Include="Resources\printer %281%29.png" />
+    <None Include="Resources\plus-button.png" />
+    <None Include="Resources\plus-button %282%29.png" />
+    <None Include="Resources\people_114360.ico" />
+    <None Include="Resources\Pencil512_44200.ico" />
+    <None Include="Resources\Pagar.png" />
+    <None Include="Resources\paga2.png" />
+    <None Include="Resources\login.png" />
+    <None Include="Resources\login %281%29.png" />
+    <None Include="Resources\list_notes_930.ico" />
+    <None Include="Resources\Line_ui_icons_Svg-03_icon-icons.com_72170.ico" />
+    <None Include="Resources\invoice_106601.ico" />
+    <None Include="Resources\information.png" />
+    <None Include="Resources\information %281%29.png" />
+    <None Include="Resources\house-outline.png" />
+    <None Include="Resources\house-outline %281%29.png" />
+    <None Include="Resources\harina.jpg" />
+    <None Include="Resources\generar2.png" />
+    <None Include="Resources\generar.png" />
+    <None Include="Resources\error.png" />
+    <None Include="Resources\error %281%29.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\edit %282%29.png" />
+    <None Include="Resources\delete_delete_exit_1577.ico" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\delete %282%29.png" />
+    <None Include="Resources\completar2.png" />
+    <None Include="Resources\completar.png" />
+    <None Include="Resources\community_users_12977.ico" />
+    <None Include="Resources\clipboard.png" />
+    <None Include="Resources\clipboard %281%29.png" />
+    <None Include="Resources\check_ok_accept_apply_1582.ico" />
+    <None Include="Resources\cashier_icon-icons.com_53629.ico" />
+    <None Include="Resources\business_package_box_products_2343.ico" />
+    <None Include="Resources\business_inventory_maintenance_product_box_boxes_2326.ico" />
+    <None Include="Resources\back-arrow_icon-icons.com_728662.ico" />
+    <None Include="Resources\back-arrow_icon-icons.com_728661.ico" />
+    <None Include="Resources\back-arrow_icon-icons.com_72866.ico" />
+    <None Include="Resources\add_icon-icons.com_744292.ico" />
+    <None Include="Resources\add_icon-icons.com_744291.ico" />
+    <None Include="Resources\add_icon-icons.com_74429.ico" />
+    <None Include="Resources\1492617955-yumminkyskyconsmix06_83455.ico" />
+    <None Include="Resources\1486505395-download-files-folder-downloading-inbox-down-arrow-storage_81398.ico" />
+    <None Include="Resources\1486505253-folder-folder-up-folder-upload-update-folder-upload_81427.ico" />
+    <None Include="Resources\1455739708_Kitchen_Bold_Line_Color_Mix-04_icon-icons.com_53405.ico" />
     <None Include="Resources\frijoles.jpg" />
     <None Include="Resources\arroz.jpg" />
     <None Include="Resources\totopos.jpg" />
-    <None Include="Resources\harina.jpg" />
-    <None Include="Resources\salsa.jpg" />
     <None Include="Resources\maiz.jpg" />
   </ItemGroup>
   <ItemGroup />
